@@ -1,63 +1,56 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "imagebaseurl":"https://kvnloughead.github.io/",
+    "name": "Kevin Loughead",
+    "role": "Full Stack Developer",
+    "linkedinId":"kloughead",
+    // "skypeid": "Your skypeid",
+    "roleDescription": "I'm a recent graduate of the Practicum Web Development Bootcamp and a member of their student support team, and am looking for a role as Junior Web Developer.",
     "socialLinks":[
         {
-          "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
-          "className":"fa fa-linkedin"
-        },
-        {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/kvnloughead",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
-        }
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/kloughead/",
+          "className":"fa fa-linkedin"
+        },
+        // {
+        //   "name":"skype",
+        //   "url":"http://twitter.com/rbhatia46",
+        //   "className":"fa fa-twitter"
+        // }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"A recent graduate of Practicum who already described himself on the splash page. I enjoy turn-based gaming, spending time with my birds, and debugging",
+    "address":"Pennsylvania, USA",
+    "website":"https://kvnloughead.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Practicum by Yandex",
+        "specialization":"Web Development",
+        "MonthOfPassing":"January",
+        "YearOfPassing":"2021",
+        "Achievements":"An intensive, 9 month full-stack web development boot camp. I was a beta-tester and a member of the first graduating cohort."
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
+        "UniversityName":"Indiana University",
+        "specialization":"Mathematics",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2017",
+        "Achievements":"4.0 GPA"
+      },
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Practicum by Yandex",
+        "specialization":"Student support specialist",
+        "MonthOfLeaving":"Currently employed",
+        // "YearOfLeaving":"2018",
+        "Achievements":"I assist students in all aspects of their education at Practicum, answering questions about the platform or the projects, explaining tricky concepts and helping them to debug their projects."
       },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
         "skillname":"HTML5"
@@ -66,14 +59,38 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
-        "skillname":"Reactjs"
-      }
+        "skillname":"JavaScript"
+      },
+      {
+        "skillname":"React"
+      },
+      {
+        "skillname":"Git"
+      },
+      {
+        "skillname":"Express"
+      },
+      {
+        "skillname":"Node"
+      },
+      {
+        "skillname":"AWS"
+      },
+      {
+        "skillname":"BEM"
+      },
+      {
+        "skillname":""
+      },
+      {
+        "skillname":"Python"
+      },
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"NewsApi",
+        "description":"A responsive news article collection app with a React frontend and an Express backend.",
+        "imgurl":"images/portfolio/coffee.jpg"
       },
       {
         "name":"project2",

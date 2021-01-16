@@ -166,7 +166,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
 h1 { font-size: 38px; line-height: 42px; margin-bottom: 12px; letter-spacing: -1px; }
 h2 { font-size: 28px; line-height: 36px; margin-bottom: 6px; }
 h3 { font-size: 22px; line-height: 30px; margin-bottom: 12px; }
-h4 { font-size: 20px; line-height: 30px; margin-bottom: 6px; }
+h4 { font-size: 20px; line-height: 30px; margin-bottom: 6px; margin-top: 18px; margin: 6px auto 18px auto;}
 h5 { font-size: 18px; line-height: 30px; }
 h6 { font-size: 14px; line-height: 30px; }
 .subheader { }
