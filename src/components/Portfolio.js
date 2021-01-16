@@ -13,7 +13,7 @@ export default class Porfolio extends Component {
               return(
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                    <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+                    <a href={item.siteUrl} target="_blank" rel="noopener noreferrer">
                       <img alt="" src={`${item.imgurl}`} className="item-img"/>
                       <div className="overlay">
                         <div className="portfolio-item-meta">

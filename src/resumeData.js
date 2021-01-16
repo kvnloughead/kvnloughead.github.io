@@ -90,12 +90,14 @@ let resumeData = {
       {
         "name":"NewsApi",
         "description":"A responsive news article collection app with a React frontend and an Express backend.",
-        "imgurl":"images/portfolio/coffee.jpg"
+        "imgurl":"images/portfolio/news-api-img.png",
+        "siteUrl": "https://kvnloughead.github.io/news-explorer-frontend"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Around the US",
+        "description":"An image collection app written in vanilla JavaScript.",
+        "imgurl":"images/portfolio/around-js.png",
+        "siteUrl": "https://kvnloughead.github.io/web_project_4/dist/"
       },
       {
         "name":"project3",
