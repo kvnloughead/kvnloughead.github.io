@@ -100,15 +100,17 @@ let resumeData = {
         "siteUrl": "https://kvnloughead.github.io/web_project_4/dist/"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"From Portland to Portland",
+        "description":"My frst attempt at responsive design, in HTML and CSS.",
+        "imgurl":"images/portfolio/project-3.png",
+        "siteUrl": "https://kvnloughead.github.io/web_project_3/"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
+        "name":"Learning How to Learn",
+        "description":"The first project in Practicum's web development course. Pure HTML and CSS, with some nice animations.",
+        "imgurl":"images/portfolio/project-1.png",
+        "siteUrl": "https://kvnloughead.github.io/web_project_1/"
+      },
     ],
     "testimonials":[
       {
