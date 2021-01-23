@@ -197,13 +197,14 @@ ul#nav li.current a { color: #F06000; }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
 #about h2 {
-   font: 22px/30px 'opensans-bold', sans-serif;
+   font: 28px/36px 'opensans-bold', sans-serif;
    color: #fff;
    margin-bottom: 12px;
 }
 #about p {
    line-height: 30px;
    color: #f5f5f5;
+   font-size: 20px;
 }
 #about .profile-pic {
    position: relative;
@@ -240,6 +241,7 @@ ul#nav li.current a { color: #F06000; }
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
+   background: #233342;
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
@@ -249,16 +251,18 @@ ul#nav li.current a { color: #F06000; }
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
+   margin-top: 36px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #D7D7D7;
+   /* border-bottom: 3px solid #D7D7D7; */
    padding-bottom: 6px;
    color: #F06000;
    margin-top: 0;
 }
 #resume h3 {
-   font: 25px/30px 'opensans-bold', sans-serif;
-   color: #F06000;
+   font: 42px/54px 'opensans-bold', sans-serif;
+   color: #fff;
+   margin-top: 36px;
 }
 
 #resume .header-col { padding-top: 0; }
@@ -270,17 +274,16 @@ ul#nav li.current a { color: #F06000; }
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   font: 28px/36px 'librebaskerville-italic', serif;
    margin-bottom: 18px;
    margin-top: 9px;
 }
 #resume .info span {
    margin-right: 5px;
-   margin-left: 5px;
+   margin-left: 14px;
 }
 #resume .date {
-   font: 15px/24px 'opensans-regular', sans-serif;
+   font: 28px/36px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
 
@@ -301,6 +304,7 @@ ul#nav li.current a { color: #F06000; }
    display: grid;
    grid-template-columns: 1fr 1fr 1fr;
    text-align: center;
+   margin-top: 36px;
 }
 /* .bars li {
    /* position: relative;
@@ -430,16 +434,16 @@ ul#nav li.current a { color: #F06000; }
    padding-bottom: 60px;
 }
 #portfolio h1 {
-   font: 15px/24px 'opensans-semibold', sans-serif;
+   font: 32px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
-   margin-bottom: 48px;
-   color: #95A3A3;
+   margin-bottom: 80px;
+   color: #233342;
 }
 
 /* Portfolio Content */
-#portfolio-wrapper .columns { margin-bottom: 36px; }
+#portfolio-wrapper .columns { margin-bottom: 120px; }
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
@@ -454,6 +458,7 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .item-wrap a {
    display: block;
    cursor: pointer;
+   height: 505px;
 }
 
 /* overlay */
