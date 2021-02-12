@@ -21,6 +21,12 @@ let resumeData = {
           "url":"mailto:kvnloughead@gmail.com",
           "className":"fa fa-envelope"
         },
+        {
+          "name":"resume",
+          "url":"https://1drv.ms/b/s!ArAYNYjTcMKAiYQCWnqO3TpbIVj6hQ",
+          // "url":"../public/kloughead_resume.pdf",
+          "className": "fa fa-file"
+        }
         // {
         //   "name":"skype",
         //   "url":"http://twitter.com/rbhatia46",
