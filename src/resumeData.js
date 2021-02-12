@@ -16,13 +16,18 @@ let resumeData = {
           "url":"https://www.linkedin.com/in/kloughead/",
           "className":"fa fa-linkedin"
         },
+        {
+          "name":"email",
+          "url":"mailto:kvnloughead@gmail.com",
+          "className":"fa fa-envelope"
+        },
         // {
         //   "name":"skype",
         //   "url":"http://twitter.com/rbhatia46",
         //   "className":"fa fa-twitter"
         // }
       ],
-    "aboutme":"A recent graduate of Practicum who already described himself on the splash page. I enjoy turn-based gaming, spending time with my birds, and debugging",
+    "aboutme":"A recent graduate of Practicum who already described himself on the splash page. I enjoy turn-based gaming, spending time with my birds and humans, and successfully debugging things.",
     "address":"Pennsylvania, USA",
     "website":"https://kvnloughead.github.io",
     "education":[
