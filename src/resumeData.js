@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack Developer",
     "linkedinId":"kloughead",
     // "skypeid": "Your skypeid",
-    "roleDescription": "I'm a recent graduate of the Practicum Web Development Bootcamp and a member of their student support team, and am looking for a role as Junior Web Developer.",
+    "roleDescription": "recent graduate of the Practicum Web Development Bootcamp and a member of their student support team, and am looking for a role as Junior Web Developer",
     "socialLinks":[
         {
           "name":"github",
