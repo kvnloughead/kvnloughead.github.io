@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack Developer",
     "linkedinId":"kloughead",
     // "skypeid": "Your skypeid",
-    "roleDescription": "recent graduate of the Practicum Web Development Bootcamp and a member of their student support team, and am looking for a role as Junior Web Developer",
+    "roleDescription": "Full-stack web developer with a background in mathematics and tech education. I have a passion for learning and for helping others to learn. I love solving problems and writing reusable and maintainable code",
     "socialLinks":[
         {
           "name":"github",
@@ -23,8 +23,7 @@ let resumeData = {
         },
         {
           "name":"resume",
-          "url":"https://1drv.ms/b/s!ArAYNYjTcMKAiYQCWnqO3TpbIVj6hQ",
-          // "url":"../public/kloughead_resume.pdf",
+          "url":"./kloughead_resume.pdf",
           "className": "fa fa-file"
         }
         // {
@@ -33,7 +32,7 @@ let resumeData = {
         //   "className":"fa fa-twitter"
         // }
       ],
-    "aboutme":"A recent graduate of Practicum who already described himself on the splash page. I enjoy turn-based gaming, spending time with my birds and humans, and successfully debugging things.",
+    "aboutme":"Full-stack web developer with a background in mathematics and tech education. I have a passion for learning and for helping others to learn. I love solving problems and writing reusable and maintainable code",
     "address":"Pennsylvania, USA",
     "website":"https://kvnloughead.github.io",
     "education":[
